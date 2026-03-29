@@ -57,10 +57,3 @@ This generates a Windows installer in the `dist/` folder using NSIS.
 5. Use **By Vibe** sort in the sidebar to reorder your library by the current vibe
 
 ---
-
-## Design Philosophy
-
-- Every feature shows *why* it happened
-- No forced intelligence — shuffle and vibe are opt-in
-- One killer feature done well (Vibe Dial) instead of twenty mediocre ones
-- "Smart" never appears in the UI — it just feels smart
